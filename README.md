@@ -12,6 +12,7 @@ Build 20+ DAX measures for KPI analysis
 Develop a 9-page interactive Power BI dashboard
 Identify key business problems such as late deliveries, profit imbalance, and fraud risk
 Provide data-driven recommendations for supply chain optimization
+
 📊 Dataset Details
 Total Records: 2,263 orders
 Fields: 48 variables
@@ -21,6 +22,7 @@ Southeast Asia
 Oceania
 Eastern Asia
 South Asia
+
 🧹 Data Cleaning Performed
 Standardized date formats
 Fixed 1,024 incorrect shipping dates
@@ -28,6 +30,7 @@ Recalculated 145 discount errors
 Handled missing values
 Corrected data types
 Removed inconsistencies
+
 🛠️ Tech Stack
 📊 Microsoft Power BI
 📈 DAX (Data Analysis Expressions)
@@ -36,6 +39,7 @@ Removed inconsistencies
 Key Influencers
 Smart Narrative
 Decomposition Tree
+
 📈 Key KPIs
 Total Revenue: $390,818
 Net Profit: $39,502
@@ -56,6 +60,7 @@ Negative Profit Categories: Men's Clothing (-17.9%)
 Fraud & Risk:
 45 suspected fraud orders
 48 cancelled orders
+
 📊 Dashboard Structure (9 Pages)
 1. Executive Summary
 Revenue, Profit, Orders
@@ -87,6 +92,7 @@ Transaction-level analysis
 9. Business Insights (AI-powered)
 Key Influencers visual
 Smart Narrative summaries
+
 🔍 Key Insights
 📌 1. Logistics Failure
 Over half of orders are delayed
@@ -103,22 +109,27 @@ Strong negative correlation
 📌 5. Risk Factors
 Fraud + cancellations directly reduce profit
 Late delivery impacts customer satisfaction
+
 💡 Business Recommendations
 🚚 Shipping Optimization
 Fix First Class shipping system immediately
 Promote Standard Class & Same Day delivery
+
 🌍 Regional Strategy
 Expand premium offerings in Oceania
 Improve logistics in South Asia
 Cost optimization in Eastern Asia
+
 🛍️ Product Strategy
 Scale high-margin categories
 Limit discounts (max 10–12%)
 Eliminate loss-making products
+
 🔐 Risk Management
 Implement fraud detection alerts
 Monitor cancellations
 Improve payment follow-ups
+
 🤖 AI Integration
 Key Influencers: Identifies drivers of late delivery
 Smart Narrative: Auto-generates insights
