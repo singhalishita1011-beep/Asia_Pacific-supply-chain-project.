@@ -1,13 +1,16 @@
 # Asia_Pacific-supply-chain-project.
+
 📦 Pacific Asia Supply Chain Analytics Dashboard
-📌 Project Overview
+
+## 📌 Project Overview
 
 This project is part of the AICW (Artificial Intelligence in the Contemporary World) Fellowship Program, conducted by the Edunet Foundation in collaboration with Microsoft, LinkedIn, and SAP.
 
 The project focuses on analyzing supply chain and e-commerce order data across the Pacific Asia region using Microsoft Power BI to generate actionable business insights.
 
-🎯 Objectives
-Perform data cleaning and preprocessing on raw supply chain data
+## 🎯 Objectives
+
+- Perform data cleaning and preprocessing on raw supply chain data
 Build 20+ DAX measures for KPI analysis
 Develop a 9-page interactive Power BI dashboard
 Identify key business problems such as late deliveries, profit imbalance, and fraud risk
